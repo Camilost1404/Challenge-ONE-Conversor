@@ -17,5 +17,4 @@ El Conversor es una herramienta que te permite hacer diferentes conversiones. Po
 - Escoge el tipo de moneda que quieres ver.
 - ¡Listo! se mostrará un mensaje con el valor final.
 
-
-
+** Las divisas fueron sacadas de [OANDA](https://www.oanda.com/currency-converter/es/?from=USD&to=JPY&amount=1)**
